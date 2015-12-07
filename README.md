@@ -1,3 +1,10 @@
+**このAnsibleプレイブックのメンテナンスは終了しました。下記のいずれかをご利用ください。**
+
+* CentOS用: https://github.com/farend/redmine-centos-ansible
+* Ubuntu用: https://github.com/farend/redmine-ubuntu-ansible
+
+---
+
 # redmine-centos7-mariadb-ansible
 
 
